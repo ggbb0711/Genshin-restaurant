@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <script>
+        localStorage.setItem('region','Mondstadt');
+        localStorage.setItem('foodtype','Appertizer');
+    </script>
+    <script src="./dist/main.js" defer></script>
+    
+    <title>Genshin restaurant</title>
+</head>
+<body>
+    <div class="full_screen_menu flex">
+        <div class="region">Mondstadt</div>
+        <div class="region">Liyue</div>
+        <div class="region">Inazuma</div>
+        <div class="about">About</div>
+        <i class="material-icons md-36">close</i>
+    </div>
+    <div class="main-body">
+        <div class="nav-bar flex">
+            <div class="header">
+                <div class="logo flex">LOGO</div>
+                <div class="regions flex">
+                    <div class="region flex">Mondstadt</div>
+                    <div class="region flex">Liyue</div>
+                    <div class="region flex">Inazuma</div>
+                </div>
+                <div class="input-field flex">
+                    <input type="text" class="search">
+                </div>
+                <div class="about flex">About</div>
+                <i class="material-icons md-36">menu</i>
+            </div>
+        </div>
+        <div class="content">
+            <div class="main-content">
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,188 @@
+{
+    "Mondstadt":{
+        "Appertizer":[
+            {
+                "name":"Barbatos ratatouille",
+                "descr":"A simple chowder with a long history. No matter where you are, a piping-hot chowder of this sort can always give you a sense of real and unsurpassed satisfaction.",
+                "price":"2000 Moras",
+                "image":"BarbatosRatatouille.jpg"
+            },
+            {
+                "name":"Mondstadt Hash Brown",
+                "descr":"A fried cake of mashed potatoes. A little bit of pinecone helps give it a nice crunch, and great with a bit of jam. Loved by people of all ages.",
+                "price":"2000 Moras",
+                "image":"MondstadtHashBrown.jpg"
+            },
+            {
+                "name":"Radish Veggie Soup",
+                "descr":"Radish-based vegetable soup. Its flavor is delicately between tart and sweet.",
+                "price":"2000 Moras",
+                "image":"RadishVeggieSoup.jpg"
+            }
+        ],
+        "Main dish":[
+            {
+                "name":"Flaming Red Bolognese",
+                "descr":"Bolognese covered with a meat sauce. The meaty, herby aroma really gets your appetite going.",
+                "price":"5000 Moras",
+                "image":"FlamingRedBolognese.jpg"
+            },
+            {
+                "name":"Sweet Madame",
+                "descr":"Honey-roasted fowl. The honey and sweet flowers come together to compliment the tender fowl meat.",
+                "price":"5000 Moras",
+                "image":"SweetMadame.jpg"
+            },
+            {
+                "name":"Crab, Ham & Veggie Bake",
+                "descr":"A luxurious bake. Cracks through the golden outer skin reveal a medley of rosy ham and bright vegetables.",
+                "price":"5000 Moras",
+                "image":"Crab,Ham&VeggieBake.jpg"
+            }
+        ],
+        "Dessert & drinks":[
+            {
+                "name":"Wolfhook juice",
+                "descr":"A freshly squeezed, fashionable, and fruity non-alcoholic beverage. Iced Wolfhook juice mixed with a pinch of other ingredients, forming a dreamy shade of violet.",
+                "price":"1000 Moras",
+                "image":"Wolfhookjuice.jpg"
+            },
+            {
+                "name":"Apple Cider",
+                "descr":"A freshly squeezed, fashionable, and fruity non-alcoholic beverage.",
+                "price":"1000 Moras",
+                "image":"AppleCider.jpg"
+            },
+            {
+                "name":"Mint jelly",
+                "descr":"A refreshing dessert.When it slides down your throat, the faint, fresh flavor of mint will leave you feeling reinvigorated for the rest of the day.",
+                "price":"1000 Moras",
+                "image":"MintJelly.jpg"
+            }
+        ]
+    },
+    "Liyue":{
+        "Appertizer":[
+            {
+                "name":"Crispy Potato Shrimp Platter",
+                "descr":"An attractive-looking pre-meal snack. A spread made from potatoes and berries is placed onto crispy potato slices, and a whole shrimp is then added on top. The fragrant and full-bodied flavors serve to whet the appetite, while the addition of Mint adds a whole other dimension to the mix.",
+                "price":"2000 Moras",
+                "image":"CrispyPotatoShrimpPlatter.jpg"
+            },
+            {
+                "name":"Jade Parcels",
+                "descr":"An exquisite-looking dish. The ham's sweetness is locked inside the fresh vegetables, drizzled with a spicy broth. Delicious is an understatement.",
+                "price":"2000 Moras",
+                "image":"JadeParcels.jpg"
+            },
+            {
+                "name":"Golden Shrimp Balls",
+                "descr":"A deep-fried shrimp dish. The aroma assaults your senses, while the crispy potatoes bring out the light sweetness of the shrimp meat. This, in tandem with its cute, small shape, makes it very enticing indeed.",
+                "price":"2000 Moras",
+                "image":"GoldenShrimpBalls.jpg"
+            }
+        ],
+        "Main dish":[
+            {
+                "name":"Adeptus' Temptation",
+                "descr":"A complex, famous type of Liyue cuisine, in which specially selected ingredients are submerged and slowly bowled into soup stock. The recipe scribbled from memory alone was enough to urge the adepti to once again return to the world of men.",
+                "price":"5000 Moras",
+                "image":"Adeptus'Temptation.jpg"
+            },
+            {
+                "name":"Tianshu Meat",
+                "descr":"A braised meat dish. The cut of meat is a happy medium between lean and fatty, and has been braised to smoking perfection. The ingredients glisten, and are soft but not greasy. Word has it that the Tianshu of a certain generation of the Liyue Qixing invented this dish after much painstaking development.",
+                "price":"5000 Moras",
+                "image":"TianshuMeat.jpg"
+            },
+            {
+                "name":"Bamboo Shoot Soup",
+                "descr":"A soup dish that's been stewed for a good long while. The meat and ham have been diced into small pieces, and the soup has been kept on low heat till it turned milky white. The process has brought out the distinct flavors of both kinds of meat, making for an especially tasty soup.",
+                "price":"5000 Moras",
+                "image":"BambooShootSoup.jpg"
+            }
+        ],
+        "Dessert & drinks":[
+            {
+                "name":"Lotus Seed and Bird Egg Soup",
+                "descr":"A steaming egg dish. The clear, gold colors of the egg custard have been embellished with several lotus roots. Regardless of whether it is breakfast or a post-meal snack, its superior nutritional value can greatly nourish the body.",
+                "price":"1000 Moras",
+                "image":"LotusSeedandBirdEggSoup.jpg"
+            },
+            {
+                "name":"Almond Tofu",
+                "descr":"A dessert made out of almond. It has a silky-smooth texture with a long-lasting aroma of almond. It's named tofu only because of its tofu-like shape.",
+                "price":"1000 Moras",
+                "image":"AlmondTofu.jpg"
+            },
+            {
+                "name":"Pop's Teas",
+                "descr":"Tea from Liyue. After a grueling trek around the vast region of Liyue, there's nothing more rejuvenating than a big swig of Pop's Teas.",
+                "price":"1000 Moras",
+                "image":"Pop'sTeas.jpg" 
+            }
+        ]
+    },
+    "Inazuma":{
+        "Appertizer":[
+            {
+                "name":"Sakura Shrimp Crackers",
+                "descr":"Crispy, crunchy crackers. Potatoes are ground into flour and added to Shrimp and Sakura Blooms before being baked in an oven. It possesses a lovely flavor profile for a snack and is beloved by people of all ages, traits that have made it a popular choice of gift.",
+                "price":"2000 Moras",
+                "image":"SakuraShrimpCrackers.jpg"
+            },
+            {
+                "name":"Sakura Tempura",
+                "descr":"A dish deep-fried in oil. Incorporate the marinated sakura blossom petals into the batter before giving the fresh shrimp and vegetables an even coating, frying, and then draining the oil. This all sounds simple enough, but good tempura making is not something achieved in a mere day.",
+                "price":"2000 Moras",
+                "image":"SakuraTempura.jpg"
+            },
+            {
+                "name":"Five Pickled Treasures",
+                "descr":"Pickled vegetables. A round of fermentation makes food richer and also allows it to keep for longer. There were originally only four \"treasures,\" but for auspiciousness' sake, the four vegetables were mixed and plated up with one additional \"treasure\" added in, hence the name \"Five Pickled Treasures.\"",
+                "price":"2000 Moras",
+                "image":"FivePickledTreasures.jpg"
+            }
+        ],
+        "Main dish":[
+            {
+                "name":"Omelette Rice",
+                "descr":"A main dish wrapped up in an egg skin. The evenly beaten egg fluids are fried into half-doneness before being poured out on top of the rice, and tomato ketchup is drizzled over top afterward once it is ready to plate up. They say that this dish was derived from another region, though this version involves a more complicated cooking method.",
+                "price":"5000 Moras",
+                "image":"OmeletteRice.jpg"
+            },
+            {
+                "name":"Unagi Chazuke",
+                "descr":"A light and tasty main dish. Well-boiled tea is poured over rice with unagi on top and allowed to steep quietly until the rice grains have absorbed the fragreance of the tea. When combined with the lingering sweet aftertaste of the bowl of unagi.",
+                "price":"5000 Moras",
+                "image":"UnagiChazuke.jpg"
+            },
+            {
+                "name":"Tonkotsu Ramen",
+                "descr":"A steaming-hot noodle dish. The meat, prepared at low temperature, is laid over the noodles. Salty, fragrant, delicious soup seeps into each strand. A single bowl of these is guaranteed to restore any tired soul.",
+                "price":"5000 Moras",
+                "image":"TonkotsuRamen.jpg"
+            }
+        ],
+        "Dessert & drinks":[
+            {
+                "name":"Sakura Mochi",
+                "descr":"A delicate and elegant snack. The dark green leaf adds complexity to the overall warm color palette. Just looking at it gives you a sense of its quiet beauty. 'Tis a shame that its lovely flavor is like a blooming flower in transience — yet do not let that dissuade you from taking a bite.",
+                "price":"1000 Moras",
+                "image":"SakuraMochi.jpg"
+            },
+            {
+                "name":"Tricolor Dango",
+                "descr":"A soft, glutinous snack. Glutinous rice has been grown into powder and rolled into a ball before being steamed. The Sakura Bloom and Snapdragon colors lend an extra liveliness to these dango.",
+                "price":"1000 Moras",
+                "image":"TricolorDango.jpg"
+            },
+            {
+                "name":"Dango Milk",
+                "descr":"A creative snack made by adding sticky dango to milk. It is sweet and has a dense mouthfeel.",
+                "price":"1000 Moras",
+                "image":"DangoMilk.jpg" 
+            }
+        ]
+    }
+}
